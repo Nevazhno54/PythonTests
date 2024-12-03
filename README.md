@@ -1,5 +1,5 @@
-[![CI/CD GitHub Actions](https://github.com/Nevazhno54_PythonTests/actions/workflows/python-app.yml/badge.svg)](https://github.com/Nevazhno54/PythonTests/actions/workflows/python-app.yml)
-[![Coverage Status](https://coveralls.io/repos/github/Nevazhno54_PythonTests/badge.svg?branch=main)](https://coveralls.io/github/Nevazhno54/PythonTests?branch=main)
+[![CI/CD GitHub Actions](https://github.com/Nevazhno54/PythonTests/actions/workflows/python-app.yml/badge.svg)](https://github.com/Nevazhno54/PythonTests/actions/workflows/python-app.yml)
+[![Coverage Status](https://coveralls.io/repos/github/Nevazhno54/PythonTests/badge.svg?branch=main)](https://coveralls.io/github/Nevazhno54/PythonTests?branch=main)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Nevazhno54_PythonTests&metric=alert_status)](https://sonarcloud.io/dashboard?id=NEvazhno54_PythonTests)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Nevazhno54_PythonTests&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Nevazhno54_PythonTests)
 [![Code smells](https://sonarcloud.io/api/project_badges/measure?project=Nevazhno54_PythonTests&metric=code_smells)](https://sonarcloud.io/dashboard?id=Nevazhno54_PythonTests)
