@@ -111,3 +111,4 @@ class TestIntegrationMatrixOperations(unittest.TestCase):
         self.assertEqual(result_determinant, 0)
 
 #Коммент, чтобы снова запулить
+#Коммит и пуш 2
